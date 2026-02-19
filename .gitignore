@@ -1,12 +1,13 @@
-# Python virtual environments
+# Virtual environments
 venv/
+backend/venv/
 frontend/venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Environment variables
+# Environment
 .env
 
 # Node
